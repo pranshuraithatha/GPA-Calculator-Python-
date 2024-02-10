@@ -1,4 +1,4 @@
-We used lots of resources in our program, the resources listed below helped us make this calculator
+We used lots of resources in our program, the resources listed below helped us make this calculator. Also we got help from teachers as well.
 
 1. **Tkinter Basics**:
    - Tutorial: [Tkinter Tutorial on GeeksforGeeks](https://www.geeksforgeeks.org/python-gui-tkinter/)
